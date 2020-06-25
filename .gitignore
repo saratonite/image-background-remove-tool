@@ -3,3 +3,6 @@
 __pycache__
 /tests/.pytest_cache/
 /tests/tests_temp/
+/docs/imgs/output/*.png
+/libs/*.pyc
+.DS_Store
