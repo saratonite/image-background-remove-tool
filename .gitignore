@@ -4,5 +4,13 @@ __pycache__
 /tests/.pytest_cache/
 /tests/tests_temp/
 /docs/imgs/output/*.png
+/docs/imgs/output/*.jpg
 /libs/*.pyc
 .DS_Store
+
+# Test images
+/docs/imgs/input/5.jpg
+/docs/imgs/input/6.jpg
+/docs/imgs/input/7.jpg
+/docs/imgs/input/8.jpg
+/docs/imgs/input/9.jpg
